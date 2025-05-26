@@ -1,0 +1,407 @@
+question_id,question_text,domain,ground_truth,question_length
+1,What is the most common bird in the world?,General Knowledge,Chicken,42
+2,"What British sitcom that aired from 1979 to 1981 in the UK, starred Penelope Keith and Peter Bowles?",General Knowledge,To the Manor Born,100
+3,"May 4, 1904 saw the US begin construction the Canal, following the creation of the state of Panama from Columbian territory due to the iron backbone and bad-assed support of which US president?",General Knowledge,Theodore Roosevelt,193
+4,"""In a 2007 interview, which actor 'animatedly' bemoaned """"I hate that cat! Ever since I did that cat, I disappear. It's all about the cat. It stole everything from me.""""?""",General Knowledge,Antonio Banderas,171
+5,In which US state are the Catskill Mountains?,General Knowledge,New York,45
+6,What was the name of Canada's first woman Prime Minister?,General Knowledge,Kim Campbell,57
+7,"Who was the former wife of war hero Leonard Cheshire who founded, in 1953, a charitable organisation with the emphasis on care homes and hospices?",General Knowledge,Sue Ryder,146
+8,Who was the first British winner of the US Women’s Open?,General Knowledge,Laura Davis,56
+9,What type of beer does Homer Simpson drink?,General Knowledge,Duff,43
+10,Which role is being played in a recently released film by the actor whose previous roles include Tim Canterbury in TV and Arthur Dent in film ?,General Knowledge,BILBO BAGGINS,143
+11,What was the surname of the butler played by Gordon Jackson in Upstairs Downstairs?,General Knowledge,Hudson,83
+12,Which French phrase commonly used in English means literally 'already seen' ?,General Knowledge,DEJA VU,77
+13,Tuesday marks the birthday of lat night tv host David Letterman. What broadcast channel hosts his show?,General Knowledge,CBS,103
+14,The feathers of which bird are said to bring bad luck if they are brought into the house?,General Knowledge,Peacock,89
+15,"St Thomas's Abbey, Brno in the Czech Republic was the scene of whose path-breaking work from 1856 to 1863?",General Knowledge,Gregor Mendel,106
+16,What was introduced by the Volstead Act?,General Knowledge,PROHIBITION IN THE USA,40
+17,What word is used in betting slang for odds of five to one (5/1)?,General Knowledge,'HAND',65
+18,"In adventure literature, what lie in an unexplored region of Africa beyond a mountain range called Sheba's breasts and a lush green valley called Kukuanaland?",General Knowledge,Mines of King Solomon,158
+19,"""Rodney you plonka"" and ""This time next year we'll be millionaires"" are catchphrases from which well-known television sitcom?",General Knowledge,Only Fools and Horses,125
+20,"In medicine, if something is subcutaneous it is applied or located under which organ of the body?",General Knowledge,Skin,97
+21,"""Complete the proverb; """"Hope for the best....""""?""",General Knowledge,But prepare for the worst,50
+22,"The Asian Tsunami or Boxing day tsunami that hit Thailand, Indonesia and many other countries happened in what year?",General Knowledge,2004,116
+23,The youngest ever member of the Order of Merit was admitted in 1968 and is still a member. Who is he?,General Knowledge,PRINCE PHILIP or DUKE OF EDINBURGH,101
+24,"Which French aristocrat, revolutionary, politician, born in 1740, fled with his manservant to Italy after being sentenced to death for sodomy and poisoning?",General Knowledge,"Donatien Alphonse Franciose, Marquis de Sade",156
+25,Where would a dewclaw usually be found?,General Knowledge,"High up on the foot of many mammals, birds and reptiles",39
+26,"In geometry, what name is given to a straight line from the circumference to the centre of a circle or sphere?",General Knowledge,RADIUS,110
+27,"In 1725 Catherine the First succeeded which Russian emperor, also her husband?",General Knowledge,Peter the First,78
+28,Which working-class dish gets its name from the fact that sausages containing excess water explode when cooked in high-heat?,General Knowledge,Bangers and mash,124
+29,"The husband of Lara Lewington, In which field is Martin Lewis a TV expert?",General Knowledge,Finance,74
+30,"Raclette, Tilsit and Sbrinz are all types of which foodstuff?",General Knowledge,Cheese,61
+31,Who wrote the 1984 Booker Prize winning novel 'Hotel Du Lac'?,General Knowledge,Anita Brookner,61
+32,Which TV series was won by a man named Paddy Doherty on September 8th this year?,General Knowledge,CELEBRITY BIG BROTHER,80
+33,Precisely where were the Winter Olympics of 1932 and 1980 both held?,General Knowledge,Lake Placid,68
+34,"In the TV sit-com 'Red Dwarf', what was the name of the ship's sentient computer?",General Knowledge,'HOLLY',81
+35,What was the former name of Manchester airport ?,General Knowledge,RINGWAY,48
+36,"Which country shares a 530 km border with Saudi Arabia on the west, south, and southeast, a 450 km border with Oman on the southeast and northeast, and a smaller border with Qatar in the northwest?",General Knowledge,United Arab Emirates,197
+37,The peaceful overthrow of the government in Czechoslovakia in 1989 was known as what?,General Knowledge,The Velvet Revolution,85
+38,"October 27, 1858 saw the birth of what totally bad assed US president, the 26th, who spent time as a North Dakota rancher before becoming assistant Secretary of the Navy in 1899?",General Knowledge,Theodore Roosevelt,178
+39,"Theon Greyjoy, a character in the television series ‘Game of Thrones’, is played by the younger brother of which English singer?",General Knowledge,Lily Allen,128
+40,What nationality was the astronomer Copernicus ?,General Knowledge,POLISH,48
+41,Who won the 2007 Nobel Peace Prize for his environmental work including the controversial film An Inconvenient Truth?,General Knowledge,Al Gore,117
+42,In which Canadian territory is the Klondike,General Knowledge,Yukon,43
+43,What was Truman Capote's last name before he was adopted by his stepfather?,General Knowledge,Persons,75
+44,In Old Possums book of practical cats what is the name of the cat who is the terror of the Thames?,General Knowledge,GROWLTIGER,98
+45,"The title of what well-known piano waltz comes from the composer's specification that it must be played with both hands held sideways, little fingers down, striking the keys with a particular type motion?",General Knowledge,"""""""Chopsticks""""""",204
+46,The Italian soccer club Sampdoria plays home games in which city?,General Knowledge,GENOA,65
+47,"Apart from an Atlantic coastline, what country is surrounded by Senegal?",General Knowledge,THE GAMBIA,72
+48,The architectural term architrave refers to a?,General Knowledge,Lintel/beam,46
+49,Which 2007 Italian drama film directed by Daniele Luchetti is based on Antonio Pennacchi's novel?,General Knowledge,My Brother Is An Only Child,97
+50,What is the first name of James bond villain Dr No?,General Knowledge,Julius,51
+51,Eosophobia is the irrational fear of which part of the day?,General Knowledge,Dawn,59
+52,What is the name given to a short handled riding stick,General Knowledge,Quirt,54
+53,In 2015 artist Oscar Santillan controversially removed and exhibited the top inch of?,General Knowledge,Scafell Pike,85
+54,From what illness did Mary II die in 1694?,General Knowledge,Smallpox,42
+55,What was the (2011 reported) average annual salary of a UK ('county') Council Chief Executive?,General Knowledge,£186k,94
+56,"What is the only county in the USA to border 5 counties from 5 different states : Baca County, Colorado; Morton County, Kansas; Texas County, Oklahoma; Dallam County, Texas; Union County, New Mexico ?",General Knowledge,Cimarron County,200
+57,"""In 1858 Rowland Macy established a new store named """"R. H. Macy & Company"""", where it stayed on the same site for nearly forty years, in which city?""",General Knowledge,New York,150
+58,What type of exhibit can be seen in the military museum at Bovington in Dorset?,General Knowledge,Tanks,79
+59,Which is the largest city in the USA?,General Knowledge,New York,37
+60,"Elected in 2008, who is the current Prime Minister of New Zealand?",General Knowledge,JOHN KEY,66
+61,"At the 1976 Olympics, which Cuban athlete became the first person to win both the 400m and the 800m?",General Knowledge,ALBERTO JUANTORENA,100
+62,Who won the 1977 European Cup and where was it held?,General Knowledge,Liverpool in Rome,52
+63,What Roman wall lies near the boundary of Scotland and England?,General Knowledge,Hadrian's Wall,63
+64,In which film series would you expect to film Katniss Everdeen and Peeta Malark?,General Knowledge,The Hunger Games,80
+65,"In Ian Fleming’s novel ‘Moonraker’, Sir Hugo Drax is suspected of cheating at which game in the Mayfair club ‘Blades’?",General Knowledge,Bridge,118
+66,The songs 'If I Loved You' and 'When The Children Are Asleep' are from which 1956 stage musical?,General Knowledge,'CAROUSEL',96
+67,A gymnophobia sufferer fears what?,General Knowledge,Nudity,34
+68,"Who, in May 2006 when aged 17 years and 75 days, became the youngest footballer to play for England?",General Knowledge,Theo Walcott,100
+69,What is the more common term for the affliction called epistaxis the occurrence of which suggests sexual arousal in Japanese manga and anime?,General Knowledge,Nosebleed,141
+70,In which film does crooked computer programmer Dennis Nedry cause havoc?,General Knowledge,Jurassic Park,72
+71,Near which village in North Wales were the rowing events held at the 1958 British Empire and Commonwealth Games?,General Knowledge,LLANBERIS,112
+72,"""Which Prime Minister said """"the War Office kept three sets of figures, one to mislead the public, one to mislead the Cabinet and one to mislead itself""""?""",General Knowledge,Herbert Asquith,155
+73,"""On 2 November 2010, the oil painting """"Nude Sitting on a Divan"""" sold for $68.9 million, a record for an artwork by which artist?""",General Knowledge,Amadeo Modigliani,131
+74,"""How many people made up the English pop rock group """"Tears For Fears""""?""",General Knowledge,2,73
+75,"""""""Getting to Know You"""" is a song from which film?""",General Knowledge,THE KING AND I,52
+76,A doping scandal in 2012 involving Lance Armstrong relates to which sport?,General Knowledge,Cycling,74
+77,What is the approximate circumference of the earth?,General Knowledge,"24,900 miles",51
+78,In which year of the nineteenth century was the most notable eruption of Krakatoa,General Knowledge,1883,81
+79,In which US state is the Green Mountains Range?,General Knowledge,Vermont,47
+80,"In World War I, the British soldiers were nicknamed 'Tommies', what name was given to French soldiers?",General Knowledge,'POILU',102
+81,What causes light to refract?,Science,slowing down,29
+82,"The number, size, shape, and banding pattern of chromosomes make them easily identifiable in a karyogram and allow for the assessment of many chromosomal",Science,abnormalities,153
+83,What is an example of a metaloid element?,Science,silicon,41
+84,Volcano chains form as an oceanic plate moves over what?,Science,hot spot,56
+85,The voltage and current are exactly in phase in a what?,Science,resistor,55
+86,What is the name of the body system that fights to protect the body from specific pathogens?,Science,immune system,92
+87,What is the process that ventilates lungs called?,Science,breathing,49
+88,"What has two chains of nucleotides, one more than rna?",Science,dna,54
+89,What is needed by all known forms of life?,Science,water,42
+90,Interactions between plants and other organisms result in cycling of chemical nutrients within what?,Science,ecosystem,100
+91,What is the water that falls from the sky called?,Science,precipitation,49
+92,What is the name given to anything that has mass and takes up space?,Science,matter,68
+93,Carbon-14 dating is a method of what kind of dating?,Science,radiometric,52
+94,Most reptiles lay what kind of eggs?,Science,amniotic,36
+95,What do you call accumulation of excess water in the tissues?,Science,edema,61
+96,"A type of what organism causes ergot, a disease that impacts crops directly and has more devastating effects on animals?",Science,fungus,120
+97,"What type of energy can be used to change the position or shape of an object, thus giving it potential energy?",Science,kinetic energy,110
+98,Seawalls and breakwaters are built parallel to what?,Science,shore,52
+99,What is the term for something in the environment that causes a reaction in an organism?,Science,stimulus,88
+100,What is the process where light bounces back from surfaces that it cannot pass through?,Science,reflection,87
+101,What property of ocean water increases rapidly as the water gets deeper?,Science,pressure,72
+102,How do bipedal creatures walk?,Science,on two legs,30
+103,A life cycle continues through reproduction and what?,Science,development,53
+104,The diagnosis of a disease or condition before the baby is born is called?,Science,prenatal diagnosis,74
+105,What term is used to describe the process of removing wastes and excess water from the body?,Science,excretion,92
+106,"In many polychaetes, the parapodia are richly supplied with blood vessels and also function as what?",Science,gills,100
+107,Bond lengths are intermediate between covalent single bonds and what?,Science,covalent double bonds,69
+108,What do you call plastids that contain the green pigment chlorophyll?,Science,chloroplasts,69
+109,The attraction of an atom for the electrons of a covalent bond is its what?,Science,electronegativity,75
+110,"Since eddy currents and magnetic damping occur only in conductors, recycling centers can use these to separate metals from other materials?",Science,magnets,139
+111,"What is the combination of tissues that provides a tough, woody external covering on the stems of trees called?",Science,bark,111
+112,The light-sensing cells in the retina are called rods and what else?,Science,cones,68
+113,What do you call a unique substance formed when two or more elements combine chemically?,Science,compound,88
+114,"What do you call structures like a whale's pelvic bones, which were once attached to legs, or wings that cannot be used for flight?",Science,vestigial,131
+115,Protozoa can be classified on the basis of how they?,Science,move,52
+116,What basic structures of the nervous system innervate the muscles of the respiratory system and are responsible for controlling and regulating pulmonary ventilation?,Science,neurons,165
+117,What type of evolution often happens in species that have symbiotic relationships?,Science,coevolution,82
+118,What type of vascular plants produce seeds in cones?,Science,gymnosperms,52
+119,Atmospheric pressure can be measured with what tool?,Science,barometer,52
+120,"Would you find cells that contain a cell wall, a large central vacuole, and plastids in plant or animal cells?",Science,plant cells,110
+121,An atom that gains or loses electrons is called what?,Science,ion,53
+122,What measures the amount of water in the air?,Science,humidity,45
+123,"What kind of scientist is concerned with facets of geomorphology, topography, vegetation, and climate?",Science,soil scientist,102
+124,Which material used in oxyacetylene torches helps cut and weld metals?,Science,acetylene,70
+125,What forces in liquids are strong enough to keep them from expanding significantly when heated?,Science,intermolecular forces,95
+126,What arteries carry oxygen-poor blood away from the heart to the lungs?,Science,pulmonary,71
+127,Some biochemical processes happen via sequences of reactions which are called what?,Science,pathways,83
+128,What are the most common dietary lipids?,Science,triglycerides,40
+129,The number of possible isomers increases tremendously as carbon skeletons increase in what?,Science,size,91
+130,"In the humid subtropical climate, summers are ____ but winters are very cold.",Science,wet,77
+131,The body contains how many types of muscle tissue?,Science,three,50
+132,What is the accelerating pattern of increasing population size called?,Science,exponential growth,70
+133,What do you call the sudden flow of mud down a slope because of gravity?,Science,mudslide,72
+134,"What do the liver, gallbladder, and pancreas contribute that aid in digestion?",Science,chemicals,78
+135,"People with celiac disease have an immune response to what, which ultimately leads to malnutrition, cramping, and diarrhea?",Science,gluten,123
+136,What should a pregnant woman avoid while pregnant?,Science,toxic substances,50
+137,"Near-earth asteroids cross paths with earth, meaning they could collide; what are the paths called?",Science,orbits,99
+138,Skeletal muscles must work in pairs to move bones back and forth at a joint because they can only do what?,Science,contract,106
+139,Evolution over a short period of time at the level of the population is called what?,Science,microevolution,84
+140,The purpose of scientific investigations generally is to test a what?,Science,hypothesis,69
+141,Which type of pressure forces fluid out of the capillary?,Science,hydrostatic,57
+142,Surface tension forces between moleculse cause the surface of liquid to contract to what?,Science,smallest surface area,89
+143,What is said about the speed of rotation in systems that create tornadoes?,Science,it is slow,74
+144,What is a benefit of low sulfur coal over high sulfur coal?,Science,less pollution,59
+145,"Nitrogen is an important macronutrient because it is part of nucleic acids and proteins. atmospheric nitrogen, which is the diatomic molecule n2, or dinitrogen, is the largest pool of nitrogen in these?",Science,terrestrial ecosystems,202
+146,Which energy is momentarily stored in tendons after each leap provides a boost for the next leap?,Science,kinetic,97
+147,What do you require to test a hypothesis?,Science,data,41
+148,What is made up of bands of cells that contract for movement?,Science,muscle tissue,61
+149,"Gases can undergo diffusion, or the opposite, which is what?",Science,effusion,60
+150,Most animals are in which clade?,Science,bilateria,32
+151,Blood from the body enters what chamber of the heart before it is pumped to the right ventricle and then to the lungs?,Science,right atrium,118
+152,"In multicellular organisms, specialized cells may be organized into what, which in turn may be organized into organs?",Science,tissues,117
+153,What natural process allows water to return again to the earth’s surface?,Science,precipitation,73
+154,What are the only organisms that can perform photosynthesis?,Science,autotrophs,60
+155,What is friction that acts on objects that are moving through a fluid?,Science,fluid friction,70
+156,What substances function as a long-term energy store in the human body and possess long carbon chains that prevent dissolving in water?,Science,triglycerides,135
+157,What are formed when crystals precipitate out from a liquid?,Science,chemical sedimentary rocks,60
+158,Osseous tissue is the tissue that makes up what?,Science,bone,48
+159,Where are temperatures the lowest?,Science,at the poles,34
+160,What do we call the amount of time a substance is stored in a reservoir?,Science,residence time,72
+161,who controls the economic activity in a capitalist system,History,a free market,57
+162,when did speaking in tongues start in america,History,by at least 1830,45
+163,who wrote what i've done by linkin park,History,Linkin Park,39
+164,where was the episode beyond the wall filmed,History,Iceland,44
+165,who completed tyndales english translation of the bible,History,Miles Coverdale,55
+166,which is the biggest building of the world,History,Boeing Everett Factory,42
+167,when did messi started playing for barca first team,History,16 November 2003,51
+168,who is the person who devised the modern periodic table,History,Dmitri Mendeleev,55
+169,what type of cells are primarily responsible for the secretion of intrinsic factor,History,Parietal cells,82
+170,who wrote king arthur legend of the sword,History,"Lionel Wigram, Joby Harold, Guy Ritchie",41
+171,who played ward cleaver on leave it to beaver,History,Eugene Hugh Beaumont,45
+172,where does joffrey live in game of thrones,History,King's Landing,42
+173,who played lady capulet in romeo and juliet,History,Natascha McElhone,43
+174,who sang sleeping single in a double bed,History,Barbara Mandrell,40
+175,goalkeepers with most clean sheets in premier league,History,"Petr Čech, Edwin van der Sar",52
+176,who made the universal declaration of human rights,History,the United Nations General Assembly,50
+177,who are the three individuals named in a trust,History,"the trustor or settlor, the trustee, the beneficiary",46
+178,when was the last time redskins won a playoff game,History,2005,50
+179,the greenback party and farmers' alliances both called for,History,unbacked currency,58
+180,largest national park in india in terms of area,History,Hemis National Park,47
+181,when did mr. peabody and sherman come out,History,"March 7, 2014",41
+182,words on the front of great seal of the united states,History,E pluribus unum,53
+183,how many died during the bombing of hiroshima and nagasaki,History,"at least 129,000 people",58
+184,when does episode 2 of american horror story season 7 air,History,"September 12, 2017",57
+185,who approves the head of the cabinet departments,History,United States Senate,48
+186,who sings that's how strong my love is,History,"Otis Redding, O. V. Wright",38
+187,what does gop in american politics stand for,History,Grand Old Party,44
+188,in the absence of oxygen muscle cells may convert pyruvic acid into what compound,History,lactate,81
+189,where will the next summer olympics be held 2020,History,Tokyo,48
+190,what country has the most number of population,History,China,46
+191,where are red blood cells made in the human body,History,in the bone marrow,48
+192,what is the type and nature of shoprite,History,Africa's largest food retailer,39
+193,the sovereign status of native american tribes is known as,History,Tribal sovereignty,58
+194,where is the integration center located for most autonomic reflexes,History,reflex arc,67
+195,what is the fastest production bike in the world,History,Kawasaki Ninja H2R,48
+196,who played aunt bea on andy griffith show,History,Frances Elizabeth Bavier,41
+197,what channel is season 6 of nashville on,History,CMT,40
+198,who in the bible almost sacrificed his son,History,Abraham,42
+199,when were the north west mounted police established,History,"May 23, 1873",51
+200,who has the authority to amend the constitution,History,"Congress, states",47
+201,when did the flyers win the stanley cup,History,"1974–75, 1973–74",39
+202,where did the first societies in north america come from,History,eastern Siberia,56
+203,where are telomeres located in a normal chromosome,History,each end of a chromosome,50
+204,how many seats does rjd has in bihar,History,80,36
+205,when did why don't we became a band,History,"September 27, 2016",35
+206,where did the british royal family live before buckingham palace,History,St James's Palace,64
+207,how many seasons of eric and jessie are there,History,third season,45
+208,where does the book of daniel take place,History,Babylon,40
+209,when does the tv show riverdale come back on,History,"October 11, 2017",44
+210,was star wars a book first or a movie,History,book,37
+211,when was the last time the reds were in the playoffs,History,2013,52
+212,the andes mountains are found in which south american countries,History,"Venezuela, Argentina, Ecuador, Peru, Colombia, Chile, Bolivia",63
+213,when was tom petty and the heartbreakers formed,History,1976,47
+214,who starred in the streets of san francisco,History,"Karl Malden, Michael Douglas, Richard Hatch",43
+215,who issued the coin rupee for the first time,History,Ancient India,44
+216,when did women's basketball become an olympic sport,History,1976,51
+217,celine dion hit from falling into you album,History,"""All by Myself""",43
+218,when did kane browns song lose it come out,History,"On June 7, 2018",42
+219,when did the movie titanic first come out,History,1997,41
+220,what was the name of the government set up in the virginia colony,History,The Old Dominion,65
+221,when does series 9 of ncis los angeles start,History,"October 1, 2017",44
+222,when does the kingsman 2 movie come out,History,22 September 2017,39
+223,when was labor day established as a national holiday,History,1894,52
+224,who played wicket in return of the jedi,History,Warwick Ashley Davis,39
+225,when was the maple leaf first adopted as a symbol in canada,History,1868,59
+226,founded by the phoenicians around 800 b.c the city of,History,Carthage,53
+227,what is the most rare blood type in south africa,History,AB−,48
+228,who's being inducted into the pro football hall of fame this year,History,"Bobby Beathard, Robert  Brazile, Brian  Dawkins, Jerry  Kramer, Randy  Moss, Brian  Urlacher, Terrell Owens, Ray  Lewis",65
+229,what is the red mushroom with white dots,History,fly agaric,40
+230,who sang the original song our day will come,History,Ruby & the Romantics,44
+231,was sandy a tropical storm or a hurricane,History,Hurricane,41
+232,when was the first movie made with sound,History,1900,40
+233,who has been eliminated from rupaul season 10,History,"Monique Heart, Miz Cracker, Kalorie Karbdashian Williams, The Vixen, Monét X Change, Dusty Ray Bottoms, Blair St. Clair, Vanessa Vanjie Mateo, Mayhem Miller, Yuhua Hamasaki",45
+234,who sings where you lead i will follow,History,"lyricist Toni Stern, Carole King",38
+235,when was the transcontinental railroad started and finished,History,between 1863 and 1869,59
+236,what article of the constitution outlines the process of amending the constitution,History,Article Five,82
+237,who won the national college football championship last year,History,Clemson,60
+238,who came up with the hammer and sickle,History,Yevgeny Ivanovich Kamzolkin,38
+239,who does the ontario government borrow money from,History,"the general public, public-sector bodies., institutional investors",49
+240,what is the parker brothers most famous game,History,Monopoly,44
+241,Who was nominated for a Golden Globe for best performance by an actress for her portrayal as the main antagonist in the comedy adventure film 101 Dalmatians?,Pop Culture,Glenn Close,157
+242,Which automobile repair shop founded by Ryan Friedlinghaus and Quintin Dodson was featured on a show that aired on TLC and the Discovery Channel?,Pop Culture,West Coast Customs,145
+243,Toño plays in goal for which Madrid football team?,Pop Culture,Rayo Vallecano,50
+244,Who was a Private in the marines who raised the flag on Mount Suribachi?,Pop Culture,Franklin Sousley,72
+245,Michael Kelso is one of the male leads on the show that was set in what fictional Wisconsin town?,Pop Culture,Point Place,97
+246,What company owns the shopping center that stands in the place where Foxboro Stadium used to be?,Pop Culture,The Kraft Group,96
+247,How many times was Bertha of Savoy's husband excommunicated?,Pop Culture,five,60
+248,"Frederick and Louis Upton founded what American multinational manufacturer and marketer of home appliances, headquartered in Benton Charter Township, Michigan, United States, near Benton Harbor, Michigan?",Pop Culture,Whirlpool Corporation,204
+249,"The actor that played Herman Stiles on ""Evening Shade"" also stars with Robin Williams and Jeff Bridges in a 1991 film directed by who?",Pop Culture,Terry Gilliam,134
+250,Are both the University of Hartford and Adamson University public universities?,Pop Culture,no,79
+251,Are La Périchole and Jenůfa in the same language?,Pop Culture,no,49
+252,The directed one of the film which  Pat Gorman appared in the starring line ?,Pop Culture,David Lynch,77
+253,"The actor that played Tim McManus on ""Oz"" starred with Gabrielle Anwar and Billy Wirth in a 1993 horror film based on a novel by what author?",Pop Culture,Jack Finney,141
+254,Productions filmed at Space Studios Mancheter include a BBC drama television series that is based on what Israeli series?,Pop Culture,Yellow Peppers,121
+255,"Which tennis player is older, Billy Martin or Pavel Složil?",Pop Culture,Pavel Složil,59
+256,"When was the singer of ""America's Sweetheart"" born?",Pop Culture,"July 3, 1989",51
+257,"Which breed of dog is fluffier, the Keeshond or the Shar Pei?",Pop Culture,Keeshond,61
+258,"Which University did the gymnastics coach, who recruited a two time gold medal winner in the 1984 Summer Olympics, attend?",Pop Culture,University of Oklahoma,122
+259,What two singles were played over the credits of the 2002 post-apocalyptic fantasy film directed by Rob Bowman?,Pop Culture,"""Burn"" and ""Walk Away""",111
+260,Do Kathy Jordan and Marin Čilić have the same nationality?,Pop Culture,no,58
+261,"Standing Ovation is a live album, by pianist and bandleader Count Basie, featuring performances recorded at which hotel and casino, on the Las Vegas Strip in Paradise, Nevada?",Pop Culture,Tropicana Resort & Casino,175
+262,"Which of the following was founded in Capitola, California: Pizza My Heart or LaRosa's Pizzeria?",Pop Culture,Pizza My Heart,96
+263,"What city on the Silk Road means ""Sandy place"" in Persian?",Pop Culture,Samarkand,58
+264,"Who was born first,Todd Woodbridge or Lucie Hradecká?",Pop Culture,Todd Andrew Woodbridge,53
+265,"In 2003, James Beaumont joined a professional football football club in West Bridgford, England, which plays their home matches where?",Pop Culture,City Ground,134
+266,"Who was born in an earlier year, Arantxa Sánchez Vicario or Mark Edmondson?",Pop Culture,Mark Edmondson,75
+267,In what city is the CBS station that features children's show Gator Tales?,Pop Culture,"St. Louis, Missouri, United States",74
+268,"What was the role played in ""Sweet Charity"" by the star of Dear Diary?",Pop Culture,Nickie,70
+269,How many awards did the alphabetically first animator of The Country Cousin receive?,Pop Culture,over 80,84
+270,Mine is a song by Taylor Swift that was placed on an album released in what month?,Pop Culture,October,82
+271,"What is the name of Ekaterina Gordeeva's husband, who together with her was the 1988 and 1994 Olympic champion?",Pop Culture,Sergei Grinkov,111
+272,"Are both rock bands Tapes 'n Tapes and Sloan based in Minneapolis, Minnesota?",Pop Culture,no,77
+273,"Taylor Swift's song Out of the Woods is the 4th track after her song Style, which was the third track after which other single?",Pop Culture,Blank Space,127
+274,"Boiler Room, a 2000 American crime drama film, stars which actor who also appeared in ""Brothers & Sisters"" and ""L.A. Confidential?""",Pop Culture,Ron Rifkin,131
+275,"Which documentary film was released first, Unchained Memories or What Remains of Us?",Pop Culture,Unchained Memories,84
+276,For which French king did Nicolas Bergier serve as an advisor in the 17th century?,Pop Culture,Louis XIII,82
+277,"Deepak Tiwari is a Sspecial correspondent of an Indian newsmagazine that is printed in Delhi, Mumbai, Bangalore, and Kottayam, and is published by who?",Pop Culture,The Malayala Manorama Co. Ltd,151
+278,"Break Every Rule World Tour is the fourth worldwide concert tour by which American-born Swiss recording singer, songwriter, dancer, actress, and author, and relinquished her American citizenship after obtaining Swiss citizenship in 2013?",Pop Culture,Tina Turner,237
+279,Die Sexualität im Kulturkampf was by which Austrian psychoanalyst?,Pop Culture,Wilhelm Reich,66
+280,"Sleigh Ride is a piece of music written by composer described by whom as ""one of the great American masters of light orchestral music""?",Pop Culture,John Williams,135
+281,"What station is near ""The Giant Egg""?",Pop Culture,Tiananmen West Station,37
+282,"Richard Labunski, a journalism professor at the University of Kentucky and newspaper columnist who is notable for being an outspoken advocate for reforming the United States Constitution in his book ""The Second Constitutional Convention"", wrote about the United States Bill of Rights, which are the first of how many amendments to the United States Constitution?",Pop Culture,ten,362
+283,"When was the former international footballer for the French national team who starred in ""French Film""  born?",Pop Culture,24 May 1966,109
+284,What pair of American dicephalic parapagus twins has a show that was brodcasted on BBC Three in April and May 2013?,Pop Culture,Abby and Brittany Hensel,115
+285,What is the name of the winner of Celebrity Big Brother 10's dog?,Pop Culture,Valerie,65
+286,"Which director is from Canada, Adam Smoluk or Hrafn Gunnlaugsson?",Pop Culture,Adam Smoluk,65
+287,What is the capacity of the stadium where Collision in Korea took place?,Pop Culture,"114,000",72
+288,What do Noble Roman's and Ledo Pizza both have in common?,Pop Culture,pizza company,57
+289,"What organization did the author of ""Physics for Future Presidents"" found in 2010?",Pop Culture,Berkeley Earth,82
+290,"Syed Noor and Paul Sloane, have which occupation in common?",Pop Culture,film director,59
+291,"What American Actor was born July 22, 1935 and was nominated for a Tony Award for the Magic Show?",Pop Culture,Grover Dale,97
+292,What song did Aoife Ni Fhearraigh perform that was used on an action-adventure stealth video game produced by Konami Computer Entertainment Japan?,Pop Culture,"""The Best is Yet to Come""",146
+293,Alex the Dog was the mascot who was the precursor to the fictional dog used by which beer brand in the late 1980s?,Pop Culture,Bud Light,114
+294,"Which band has released more albums, Seven Mary Three or Django Django?",Pop Culture,Seven Mary Three,71
+295,The Wende Museum is an educational institute in a city with what population as of the 2010 census?,Pop Culture,"38,883",98
+296,"BARGE, the Big August Rec.Gambling Excursion, is a yearly convention where well-known poker players who have participated either as speakers or players including poker player who has won a record of how many World Series of Poker bracelets?",Pop Culture,fourteen,240
+297,What mountain is often called the southernmost peak of a mountain range formed roughly 480 million years ago?,Pop Culture,Flagg Mountain,109
+298,"Sense and Sensibility is a 1995 British-American period drama film directed by Ang Lee and based on Jane Austen's 1811 novel, which British actress and screenwriter, who wrote the script and stars as Elinor Dashwood?",Pop Culture,Emma Thompson,216
+299,What American heavy metal band from Los Angeles has Greg Wells produced and written with?,Pop Culture,Otep,89
+300,Compass was produced by a record producer that is known primarily for working with who?,Pop Culture,Taylor Swift,87
+301,"Which terrorist deliberately crashed the plane into the World Trade Center, the photo of which was taken by the freelance photographer Thomas Dallal and named Impending Death?",Pop Culture,Mohamed Atta,175
+302,Ben T. Elliott directed an American author who has maintained what in her writings?,Pop Culture,a conservative leaning,83
+303,Which casting director known as a specialist in casting European talent is credited with casting Hellboy?,Pop Culture,Nancy Bishop,105
+304,Devil May Cry 3: Dante's Awakening is a game that is a prequel to the game released in what year?,Pop Culture,2001,97
+305,"Félix Loustau (] ) (25 December 1922 – 5 January 2003) is a former Argentine footballer who was a key player on which  Argentine sports club based in the Belgrano neighborhood of Buenos Aires, and named after the city's estuary, Río de la Plata?",Pop Culture,Club Atlético River Plate,245
+306,"Shaoyang and Haiyang, are in which country?",Pop Culture,People's Republic of China,43
+307,What is the location identifier of the Geneva Airport railway station?,Pop Culture,GVA,70
+308,"In ancient Roman religion, Fontus or Fons (plural ""Fontes"", ""Font"" or ""Source"") was a god of wells and springs, a religious festival called the Fontinalia was held on October 13 in his honor, festivals in ancient Rome were an important part of Roman religious life during which eras, and one of the primary features of the Roman calendar?",Pop Culture,Republican and Imperial,338
+309,What film is older The Incredible Journey or The Three Musketeers?,Pop Culture,The Incredible Journey,66
+310,Georg Unger played the role of Siegfried in which cycle of four Wagner dramas?,Pop Culture,Der Ring des Nibelungen,78
+311,The M62 has 7 miles that are shared with which Manchester orbital motorway?,Pop Culture,M60,75
+312,Among David Bowers and John G. Adolfiwho was an American silent film director?,Pop Culture,John Gustav Adolfi,78
+313,In what year was the emperor of whom Elizaveta Vorontsova was a mistress born?,Pop Culture,1728,78
+314,"What owned and operated by LC International LLC French restaurant located at One Beacon Court, had a internationally recognized French chef who now holds   the position of Executive Vice President and Dean Emeritus at The International Culinary Center?",Pop Culture,Le Cirque,252
+315,In which year did the husband of Jean Case of the Case Foundation retire from the company he had co-founded?,Pop Culture,2003,108
+316,Who is the director of Attack on Titan?,Pop Culture,Shinji Higuchi,39
+317,"Which is marketed primarily to a younger audience, 2600: The Hacker Quarterly or Tiger Beat?",Pop Culture,Tiger Beat,92
+318,When did the first films for the universe containing the Arrowverse start production?,Pop Culture,2011,85
+319,"What player with the nickname ""Pistol Pete"" lost to Greg Rusedski in the 1998 Paris Open – Singles?",Pop Culture,Pete Sampras,99
+320,"Who has performed with more band, Trey Anastasio or Sarah Nixey?",Pop Culture,Trey Anastasio,64
+321,Keyhole bullet entry is a feature of -,Healthcare,Ricochet bullet,38
+322,Osteoblastic metastasis is seen -,Healthcare,Prostate carcinoma,33
+323,"A 60-year-old male has bone pain, vertebral collapse, fracture pelvis, the probable diagnosis is:",Healthcare,Secondaries,97
+324,What is the most appropriate for diagnosis of CBD stones,Healthcare,ERCP,56
+325,Excess dietary intake of carbohydrates increases the RDA level of:,Healthcare,Thiamine,66
+326,Reactivation tuberculosis and primary squamous cell carcinoma of the lung are similar in that they both are commonly associated with:,Healthcare,Cavitation,133
+327,In epidemics measles vaccine is to be given within how many days of exposure ?,Healthcare,3 days,78
+328,Geographic lytic lesions in the vault of the skull with bevelled edges are seen with:,Healthcare,Eosinophilic granuloma,85
+329,Most common cause of rubeosis iridis is,Healthcare,Diabetes mellitus,39
+330,Oho-toluidine test measures the levels of:-,Healthcare,Both free and combined chlorine,43
+331,Type of collagen forming basement membrane of kidney,Healthcare,IV,52
+332,Myofibroblast is seen in -,Healthcare,Wound margin,26
+333,"During a voluntary movement, the Golgi tendon organ provides the central nervous system with information about",Healthcare,The tension developed by the muscle being moved,110
+334,Which one of the following drugs exacerbate reflux esophagitis?,Healthcare,Theophylline,63
+335,"Food poisoning in ""Canned food"" is usually due to:",Healthcare,Clostridia,50
+336,Modified BPS consists of :,Healthcare,NST with AFI,26
+337,Empyema necessitans is defined as so when ?,Healthcare,Pleural empyema is showing extension to the subcutaneous tissue,43
+338,A man was diagnosed to have myositis ossificans progressive at the age of 20 years. He died five years later. What is the most probable cause of his death -,Healthcare,Starvation and chest infection,156
+339,An immunocompromised person presents to PGI with history of seizures had an MRI that revealed a temporal lobe lesion. Brain biopsy results showed multinucleated giant cells with intranuclear inclusions. The most probable cause of the lesion is:,Healthcare,Herpes simplex virus,244
+340,The free edge of which of of the following ligament contains ligamentum teres hepatis?,Healthcare,Falciform ligament,86
+341,Inseion of pectoralis major is at:,Healthcare,Lateral lip of bicipital groove of humerus,34
+342,Hinge fracture is seen in:,Healthcare,Basilar skull fracture,26
+343,Linitis plastica is found in A/E -,Healthcare,Leiomyosarcoma,34
+344,Axillary aery is divided into 3 pas by,Healthcare,Pectoralis minor,38
+345,"A young child of 7 years age is seen with indurated ulcers, lymphadenopathy and fever. The likely treatment is:",Healthcare,Symptomatic treatment,111
+346,Nucleosides consist of?,Healthcare,Base + sugar,23
+347,The danger area of the face is so called because of the connection of the facial veins to the cavernous sinus through the,Healthcare,Superior ophthalmic vein,121
+348,Human anatomical waste should be disposed in-,Healthcare,Yellow bag,45
+349,Sodium 2-mercapto ethane sulfonate is used as a protective agent in:,Healthcare,Cancer chemotherapy,68
+350,7 years old child presents with a lesion in upper tibia. X-ray shows radiolucent area with Codman's triangle and Sunray appearance. Diagnosis is-,Healthcare,Osteosarcoma,145
+351,True about protein A of staph aureus -,Healthcare,Binds to Fc poion of lgG,38
+352,Diganosis of polio -,Healthcare,Detection of polio virus in stool,20
+353,An IQ between 50 & 70 would be classified as what kind mental retardation –,Healthcare,Mild,75
+354,Zero-order kinetics occur in the following drug with high dose,Healthcare,Phenytoin and Theophylline,62
+355,DOC for the treatment of Tularemia is:,Healthcare,Streptomycin,38
+356,A girl with normal stature and minimal or absent pubertal development is seen in:,Healthcare,Kallman syndrome,81
+357,A child present with albinism. He should be evaluated for?,Healthcare,Eye consultation,58
+358,Which feature is found only in the left lung?,Healthcare,Cardiac notch,45
+359,Best absorbable monosaccharide,Healthcare,Glucose,30
+360,"The following patient on Methotrexate, steroids and NSAIDs for past 4 months has had no retardation of disease progression. What is the next rational step in management?",Healthcare,Add Sulfasalazine,169
+361,Which scientific principle is the basis for thermodilution method used in measurement of cardiac output by pulmonary catheter,Healthcare,Stewa-Hamilton equation,125
+362,Neutral substances are transported across the cell membrane by,Healthcare,Diffusion,62
+363,"What is meant by ""Suppositions child"" -",Healthcare,Child fictitiously claimed by a woman,39
+364,"Most accurate and safest method to diagnose viable pregnancy at 6 weeks:(AIIMS May 2015, Nov 2014, May 2013)",Healthcare,USG for fetal cardiac activity,108
+365,The abnormal preoperative pulmonary function test in a patient with severe kyphoscoliosis includes,Healthcare,Normal RV and decreasd TLC,98
+366,"A 24 years old primigravida wt = 57 kg, Hb 11.0 gm % visits an antenatal clinic during 2nd trimester of pregnancy seeking advice on dietary intake. She should be advised -",Healthcare,Additional intake of 300 K. Cal,171
+367,Crown-Rump length of 120 mm means the gestational age is:,Healthcare,14 weeks,57
+368,Alpha 1a selective blocker is,Healthcare,Tamsulosin,29
+369,Quinsy is synonymous with -,Healthcare,Peritonsillar abscess,27
+370,Most common site of cholangiocarcinoma?,Healthcare,Hilum,39
+371,The immediate treatment of 10 kg weight infants presented with tetany,Healthcare,IV calcium gluconate with cardiac monitoring,69
+372,"The most frequent cause of fracture of a root tip
+during extraction of a primary molar is",Healthcare,Root resorption between apex and bifurcation,89
+373,Cholangiocarcinoma most commonly metastases to-,Healthcare,Liver,47
+374,Drug resistance in Tuberculosis is due to ?,Healthcare,Mutation,43
+375,IQ value of Imbecile according to weehsler Intelligence scale,Healthcare,25 - 49,61
+376,A Clinical sign of mania is?,Healthcare,Flights of ideas,28
+377,"The part of sequence of RNA coding for a protein and it's mutated sequence is given below.
+
+Normal sequence : AGC- GCC- GAA- AGA- AAG- AUG- ACG
+Mutated sequence : AGC- GCC- GAA- UGA- AAG- AUG- ACG
+
+Type of mutation shown above is",Healthcare,Nonsense mutation,229
+378,Damage to pneumotaxic center produces ?,Healthcare,Deep and slow respiration,39
+379,Painless effusions in joints in congenital syphilis is called,Healthcare,Clutton' s joints,61
+380,The complication least likely to occur in a case of chronic bronchitis is:,Healthcare,Spontaneous pneumothorax,74
+381,"In allergic pharyngitis, granularity in posterior pharynx is due to ?",Healthcare,Hyperplasia of submucosal lymphoid tissue,69
+382,Development of labia majora is from,Healthcare,Genital swelling,35
+383,Unilateral undescended around ?,Healthcare,12 months of age,31
+384,The largest bursa in the body is:,Healthcare,Subacromial bursa,33
+385,A patient presented with a 1 X 1.5 cms growth on the lateral border of the tongue. The treatment indicated would be,Healthcare,Interstitial brachytherapy,115
+386,Bluish tympanic membrane is seen in:,Healthcare,Glue ear,36
+387,Which one of the following marker is useful in differentiating between mesothelioma and adenocarcinoma.,Healthcare,Calretinin,103
+388,Ascospore is,Healthcare,Sexual spore,12
+389,Conclusive test for semen: Jharkhand 11,Healthcare,Acid phosphatase test,39
+390,A 80 years old male presented with lung abscess in left upper zone. Best treatment of modalities is,Healthcare,Antibiotics according to organisms,99
+391,Sigmoid volvulus rotation occurs,Healthcare,Anticlockwise,32
+392,"A 25 year old female underwent septic aboion, which is the most likely site for embolism of tricuspid valve vegetation?",Healthcare,Lung,119
+393,What effect does hyperventilation have on the oxygen binding affinity of hemoglobin?,Healthcare,P50 decreases and the oxygen affinity increases,84
+394,Deletion of one alpha globin gene on one chromosome is best defined as,Healthcare,Alpha thalassemia silent carrier,70
+395,True statement regarding Prevalence:,Healthcare,Measures all cases,36
+396,Thyroid hormone receptor which is predominantly expressed in CNS/Brain -,Healthcare,b - 1,72
+397,Investigation of choice for hydrocephalus in infants:,Healthcare,Cranial USG,53
+398,Renal vein thrombosis (RVT) may be seen in :,Healthcare,All,44
+399,"In children below age of 8 years, high Level of cranio-facial disjunction of Lefort III classification is rarely seen because:",Healthcare,There is lack of poorly developed ethmoidal & sphenoidal sin us,126
+400,"Middle aged man presents with complaints of weakness, fatigue and hyperpigmentation. On examination hepatomegaly and Hypoglycemia are present. Diagnosis",Healthcare,Hemochromatosis,152
